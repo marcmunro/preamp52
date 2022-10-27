@@ -1,0 +1,11 @@
+ Ignore backup and temp files
+*~
+\#*#
+\.\#*
+_autosave-*
+
+# Backup directories
+*-backups
+
+# Cache directory
+fp-info-cache
